@@ -1,4 +1,4 @@
-advanced-crud-maker-bundle
+advanced-maker-crud-bundle
 ======================
 
 This bundle is extension to `symfony/maker-bundle`. It allows you to create advanced crud with several commands.
@@ -11,7 +11,7 @@ Requirements
 Installation
 ------------
 
-    composer require charles/advanced-crud-maker-bundle:@dev
+    composer require charles/advanced-maker-crud-bundle:@dev
 
 Configuration
 -------------
@@ -20,10 +20,10 @@ Configuration
             {
                 "type": "package",
                 "package": {
-                    "name": "charles/advanced-crud-maker-bundle",
+                    "name": "charles/advanced-maker-crud-bundle",
                     "version": "master",
                     "source": {
-                        "url": "https://github.com/chiqui3d/advanced-crud-maker-bundle.git",
+                        "url": "https://github.com/chiqui3d/advanced-maker-crud-bundle.git",
                         "type": "git",
                         "reference": "master"
                     }
